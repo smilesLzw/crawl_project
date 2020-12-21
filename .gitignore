@@ -105,6 +105,7 @@ celerybeat.pid
 .env
 .venv
 crawl-venv/
+project*-venv/
 env/
 venv/
 ENV/
@@ -132,3 +133,6 @@ dmypy.json
 # IDEA
 .idea/
 .idea
+
+# vim
+~vimfilesundodir/
